@@ -1,4 +1,3 @@
-Bkz.
 <h1>Sinema Otomasyon Dönem Projesi</h1>
 <h3>1. Giriş</h3>
 C programlama dili ve console uygulamasında geliştirilmiş bir sinema otomasyon sistemi projesidir.
